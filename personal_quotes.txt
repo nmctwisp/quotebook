@@ -1,4 +1,5 @@
 "Strength through Struggle"
 	-Michael CHoi
 
-"I like green" - Chen Yam
+"I like green" 
+    - Chen Yam
