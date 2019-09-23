@@ -1,0 +1,1576 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getchildren"
+			],
+			[
+				"from",
+				"fromstring"
+			],
+			[
+				"schema",
+				"schema"
+			],
+			[
+				"XML",
+				"XMLSchema"
+			],
+			[
+				"schem",
+				"schema_root"
+			],
+			[
+				"HOME",
+				"HOMEPATH"
+			],
+			[
+				"c",
+				"current"
+			],
+			[
+				"next",
+				"next_item〔variable〕"
+			],
+			[
+				"pos",
+				"positionFromTail〔argument〕"
+			],
+			[
+				"posit",
+				"positionFromTail"
+			],
+			[
+				"Singl",
+				"SinglyLinkedList〔class〕"
+			],
+			[
+				"Sing",
+				"SinglyLinkedList〔class〕"
+			],
+			[
+				"S",
+				"SinglyLinkedListNode"
+			],
+			[
+				"ad",
+				"adjacency_lst"
+			],
+			[
+				"inde",
+				"index_of_second_vertex〔variable〕"
+			],
+			[
+				"ma",
+				"matrix_elements〔variable〕"
+			],
+			[
+				"Accor",
+				"AcctProcess"
+			],
+			[
+				"Func",
+				"FunctCcyAmount"
+			],
+			[
+				"Acct",
+				"AcctProcess"
+			],
+			[
+				"Trans",
+				"transactions"
+			],
+			[
+				"data",
+				"data_string"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"Image",
+				"ImageQueue"
+			],
+			[
+				"TreeGr",
+				"TreeGraph.png"
+			],
+			[
+				"Imag",
+				"ImageViewer〔class〕"
+			],
+			[
+				"_",
+				"_PhotoImage__size"
+			],
+			[
+				"prepare",
+				"prepare_canvas"
+			],
+			[
+				"create",
+				"create_image"
+			],
+			[
+				"graph",
+				"gen_graph_data"
+			],
+			[
+				"paren",
+				"parent_id〔variable〕"
+			],
+			[
+				"Tree",
+				"TreeGraph〔class〕"
+			],
+			[
+				"gen",
+				"gen_graph_data"
+			],
+			[
+				"left",
+				"left_child"
+			],
+			[
+				"righ",
+				"right_rotate"
+			],
+			[
+				"right",
+				"right_rotate"
+			],
+			[
+				"tra",
+				"traversal_queue〔variable〕"
+			],
+			[
+				"left_",
+				"left_height"
+			],
+			[
+				"ri",
+				"right_label"
+			],
+			[
+				"lef",
+				"left_label"
+			],
+			[
+				"node",
+				"node_label"
+			],
+			[
+				"lat",
+				"latex_script"
+			],
+			[
+				"PKG",
+				"PKG_TIKZ"
+			],
+			[
+				"latex",
+				"latex_bin"
+			],
+			[
+				"forest",
+				"forest_wrapper〔variable〕"
+			],
+			[
+				"docue",
+				"document_wrapper〔variable〕"
+			],
+			[
+				"node_p",
+				"node_properties"
+			],
+			[
+				"has",
+				"has_children"
+			],
+			[
+				"le",
+				"left_child〔variable〕"
+			],
+			[
+				"curre",
+				"current〔variable〕"
+			],
+			[
+				"regu",
+				"reg_results〔variable〕"
+			],
+			[
+				"rev",
+				"rev_results〔variable〕"
+			],
+			[
+				"reg",
+				"reg_results〔variable〕"
+			],
+			[
+				"current",
+				"current_factor"
+			],
+			[
+				"get_",
+				"get_pivot"
+			],
+			[
+				"piv",
+				"pivot〔argument〕"
+			],
+			[
+				"v",
+				"vars"
+			],
+			[
+				"AVL",
+				"AVLTree"
+			],
+			[
+				"A",
+				"AttributeError〔class〕"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"child",
+				"child_node〔argument〕"
+			],
+			[
+				"inser",
+				"inserted_node〔argument〕"
+			],
+			[
+				"pivot",
+				"pivot_node"
+			],
+			[
+				"right_",
+				"right_rotate"
+			],
+			[
+				"parent",
+				"parent_node〔argument〕"
+			],
+			[
+				"chil",
+				"child_node〔argument〕"
+			],
+			[
+				"__get",
+				"__getattribute__"
+			],
+			[
+				"named",
+				"namedtuple"
+			],
+			[
+				"Singly",
+				"SinglyLinkedListNode〔class〕"
+			],
+			[
+				"curren",
+				"current2〔variable〕"
+			],
+			[
+				"in",
+				"insertionsort2.py"
+			],
+			[
+				"min",
+				"min_value〔variable〕"
+			],
+			[
+				"max",
+				"max_val〔variable〕"
+			],
+			[
+				"csv",
+				"csvreader"
+			],
+			[
+				"Curve",
+				"CurveNode"
+			],
+			[
+				"linear",
+				"linear_interp"
+			],
+			[
+				"ge",
+				"get_interval"
+			],
+			[
+				"date",
+				"dateorder〔argument〕"
+			],
+			[
+				"spot",
+				"spot_rate〔argument〕"
+			],
+			[
+				"assig",
+				"assignment"
+			],
+			[
+				"conne",
+				"connectionString"
+			],
+			[
+				"rigt",
+				"right_child"
+			],
+			[
+				"pre",
+				"preorder_traversal"
+			],
+			[
+				"iter",
+				"iterations〔argument〕"
+			],
+			[
+				"cost",
+				"cost_function"
+			],
+			[
+				"nex",
+				"next_node"
+			],
+			[
+				"ch",
+				"children_count〔variable〕"
+			],
+			[
+				"hash",
+				"hash_val〔variable〕"
+			],
+			[
+				"key",
+				"keygetter"
+			],
+			[
+				"item",
+				"itemgetter〔module〕"
+			],
+			[
+				"rig",
+				"right_child"
+			],
+			[
+				"Doub",
+				"DoublyNode"
+			],
+			[
+				"path",
+				"path_stats"
+			],
+			[
+				"link",
+				"link_lists"
+			],
+			[
+				"re",
+				"reversed_stack"
+			],
+			[
+				"su",
+				"super〔class〕"
+			],
+			[
+				"stack",
+				"stack〔variable〕"
+			],
+			[
+				"del",
+				"deleteNode〔function〕"
+			],
+			[
+				"rever",
+				"reversePrint〔function〕"
+			],
+			[
+				"print",
+				"printLinkedList"
+			],
+			[
+				"s",
+				"slow_append"
+			],
+			[
+				"tr",
+				"triplet〔variable〕"
+			],
+			[
+				"thir",
+				"third_index〔variable〕"
+			],
+			[
+				"sec",
+				"second_index"
+			],
+			[
+				"secon",
+				"second_index〔variable〕"
+			],
+			[
+				"mini",
+				"minimums〔variable〕"
+			],
+			[
+				"set",
+				"setdefault"
+			],
+			[
+				"Un",
+				"UnboundLocalError〔class〕"
+			],
+			[
+				"start",
+				"start_index〔variable〕"
+			],
+			[
+				"sq",
+				"squares"
+			],
+			[
+				"fun",
+				"functools"
+			],
+			[
+				"last",
+				"lastAnswer"
+			],
+			[
+				"query",
+				"query_last〔variable〕"
+			],
+			[
+				"match",
+				"match_upto〔variable〕"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"100",
+				"1000000000000"
+			],
+			[
+				"sock",
+				"sock_color〔variable〕"
+			],
+			[
+				"money",
+				"moneySpent〔variable〕"
+			],
+			[
+				"rand",
+				"randrange"
+			],
+			[
+				"upda",
+				"updated_m"
+			],
+			[
+				"zip",
+				"zip〔function〕"
+			],
+			[
+				"inter",
+				"intervals"
+			],
+			[
+				"brea",
+				"break_worst〔variable〕"
+			],
+			[
+				"wor",
+				"worst_score〔variable〕"
+			],
+			[
+				"import",
+				"importKey"
+			],
+			[
+				"b64",
+				"b64encode"
+			],
+			[
+				"base",
+				"base64"
+			],
+			[
+				"public",
+				"public_key"
+			],
+			[
+				"set_",
+				"set_b1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/C++.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C/C.sublime-build",
+					""
+				],
+				[
+					"Packages/C/C.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C/C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Minted Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Minted Builder"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[MingGW64] std=c++98"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[MingGW64] std=c++11"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[MingGW64] std=c++14"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[Visual C++] x64"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[Visual C++] x86_amd64"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[Visual C++] x86_arm uwp 10.0.10240.0"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[Visual C++] x86_arm onecore 10.0.10240.0 -vcvars_ver=14.0"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[Visual C++] x64 8.1"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"[Visual C++] x64 store 8.1"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"py",
+				"SublimeREPL: Python 3.6"
+			],
+			[
+				"pyt",
+				"SublimeREPL: Python 3.6"
+			],
+			[
+				"pyth",
+				"Build With: Python3.6"
+			],
+			[
+				"python",
+				"SublimeREPL: Python 3.6"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"i",
+				"Indent XML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"box",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python 3.6"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ined",
+				"Indent XML"
+			],
+			[
+				"pythnon",
+				"SublimeREPL: Python - RUN with 3.6"
+			],
+			[
+				"brow",
+				"Browse Mode..."
+			],
+			[
+				"satif",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"satis",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"qui",
+				"Browse Mode: Jump List Quick Panel"
+			],
+			[
+				"bro",
+				"Browse Mode..."
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pyr",
+				"SublimeREPL: Python - RUN with 3.6"
+			],
+			[
+				"pyrh",
+				"SublimeREPL: Python - RUN with 3.6"
+			],
+			[
+				"pyton",
+				"SublimeREPL: Python 3.6"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pytn",
+				"SublimeREPL: Python 3.6"
+			],
+			[
+				"resourc",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"I",
+				"Indent XML"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"instal\t",
+				"Package Control: Install Package"
+			],
+			[
+				"she",
+				"Shell Exec: Open"
+			],
+			[
+				"shell",
+				"Shell Exec: Open"
+			],
+			[
+				"sync",
+				"SyncScroll: Toggle Current View Scroll Sync"
+			],
+			[
+				"index",
+				"Indent XML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"reour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"resouse",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"REsour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resoure",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"packare",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"bros",
+				"Browse Mode: Right Sidebar"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inden\t",
+				"Indent XML"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 728.0,
+		"history":
+		[
+			"dir(sublime.sublime_api)",
+			"sublime.sublime_api",
+			"sublime",
+			"__loader__",
+			"dir()",
+			"dir(sublime)",
+			"dir(sublime)_",
+			"sublime.sublime_api.__package__",
+			"dir(sublime.sublime_api)",
+			"dir(sublime)",
+			"dir()",
+			"dir",
+			"dir(FileBrowser)",
+			"dir()",
+			"import FileBrowser",
+			"dir()",
+			"import package_events",
+			"import watchdog",
+			"dir(pathtools)",
+			"dir(pathtools",
+			"import pathtools",
+			"quit()",
+			"view.run_command('chen_yam')",
+			"view.run_command('Chen_Yam')",
+			"view.run_command('ChenYam')",
+			"view.run_command('mecommand')",
+			"view.run_command('me')",
+			"view",
+			"view.run_command('example')",
+			"dir(view)",
+			"view.run_command('example')",
+			"view.run_command('hello_world.py')",
+			"view.run_command('hello_world')",
+			"view.run_command('example')",
+			"]",
+			"view.run_command('example')",
+			"dir(sublime)",
+			"dir(view)",
+			"dir(__loader__)",
+			"dir()",
+			"dir(window)",
+			"dir()",
+			"User",
+			"[1:532,14]=m[row,9]*m[row,11] ",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"listings(dir(os))",
+			"import os",
+			"listings(dir(SublimeREPL))",
+			"import SublimeREPL",
+			"from toolkit import listings",
+			"listings(dir(SublimeREPL))",
+			"import SublimeREPL",
+			"from toolkit import listings",
+			"from toolkit import listing",
+			"toolkit.listings(dir(SublimeREPL))",
+			"import toolkit",
+			"listings(dir(SublimeREPL))",
+			"listings",
+			"import SublimeREPL",
+			"from toolkit import listings",
+			"from toolkit import lists",
+			"[print(i) for i in bucket(dir(SublimeREPL))]",
+			"[print(i) bucket(dir(SublimeREPL))]",
+			"bucket(dir(SublimeREPL))",
+			"import SublimeREPL",
+			"from toolkit import bucket",
+			"peak(os)",
+			"import os",
+			"peak(os)",
+			"peak(SublimeREPL)",
+			"from toolkit import peak",
+			"from toolkit import itemize",
+			"dir(SublimeREPL.run_existing_command)",
+			"SublimeREPL.run_existing_command",
+			"dir(SublimeREPL.repllibs)",
+			"SublimeREPL.repllibs",
+			"dir(SublimeREPL)",
+			"import SublimeREPL",
+			"x.run_()",
+			"x.run_",
+			"x.description()",
+			"x.description",
+			"x.view",
+			"x.run()",
+			"x.run",
+			"dir(x)",
+			"x=SublimeREPL.sublimerepl.ReplKillCommand(\"*REPL* [Python v3.6]\")",
+			"SublimeREPL.sublimerepl.ReplKillCommand(\"*REPL* [Python v3.6]\")",
+			"SublimeREPL.sublimerepl.ReplKillCommand()",
+			"SublimeREPL.sublimerepl.ReplKillCommand",
+			"dir(SublimeREPL.sublimerepl)",
+			"dir()",
+			"SublimeREPL.sublimerepl",
+			"import SublimeREPL.sublimerepl",
+			"SublimeREPL.repls",
+			"repls",
+			"dir(SublimeREPL)",
+			"import SublimeREPL",
+			"impor SublimeREPL",
+			"SublimeREPL",
+			"SublimeRepl",
+			"80//3",
+			"quit()",
+			"import itertools",
+			"os.path",
+			"os.paths",
+			"os.getcwd()",
+			"import os",
+			"for i in dir(): ; print(i)",
+			"for i in dir(): \\ print(i)",
+			"for i in dir() print(i)",
+			"for i in dir(): print(i)",
+			"dir()",
+			"import tkinter",
+			"import re",
+			"import sys",
+			"import enum",
+			"import tkinter",
+			"dir(tkinter)",
+			"import tkinter",
+			"del tkinter",
+			"dir(tkinter)",
+			"dir(tkinter",
+			"import tkinter",
+			"import toolkit",
+			"dir(tkinter)",
+			"import tkinter",
+			"import toolkit"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/yamc/Desktop/quotebook/inspirational_quotes.txt",
+		"/C/Users/yamc/OneDrive - ION/CodeAcademy/guess.cpp",
+		"/C/Users/yamc/Desktop/quotebook/.gitattributes",
+		"/C/Users/yamc/OneDrive - ION/Sublime/Data/Packages/User/C++.sublime-build",
+		"/C/Users/yamc/Desktop/Both.xml",
+		"/C/Users/yamc/Desktop/Internal.xml",
+		"/C/Users/yamc/Desktop/External.xml",
+		"/C/Users/yamc/Desktop/data65076373_0_0_0 (002).xml",
+		"//C1dc02/netlogon/LoginGlobal.vbs",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/data65076373_0_0_1 (002).xml",
+		"/C/Users/yamc/Desktop/Term Sheet - CM Swap.mrt",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/Term Sheet - CM Swap.mrt",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/TestFixedWidthCTAImport_bothVersions_Disney.txt",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/BankFileImport MT940.txt",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/ReportFavoriteGeneric - CCYReport.txt",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/BankFileImport BAI2.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/SOAP/BankFileImport MT940.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/SOAP/BankFileImport BAI2.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/SOAP/ReportFavoriteGeneric - CCYReport.txt",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/PaymentExport CSV.txt",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/PaymentsImport.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/SOAP/ReportFavoriteGeneric.txt",
+		"/C/Users/yamc/Desktop/R1UA.sql",
+		"/C/Users/yamc/Desktop/R2UA.sql",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/DEMO_MT940 File.txt",
+		"/C/Users/yamc/Desktop/Single Trade Export_9_11_2019 17_35_21.xml",
+		"/C/Users/yamc/OneDrive - ION/Reference/DB/SQL/RTTI vs HTTPS.sql",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/IMPORT MT940 Statement.xml",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/IMPORT BAI2 Statement.xml",
+		"/C/HedgeRxConnect/HedgeRxConnect.dll.config",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/JobConfig_Import_CSVPayment.xml",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/Payment Export MT101.xml",
+		"/C/Users/yamc/Desktop/MyQuoteBook/motivation.txt",
+		"/C/Users/yamc/Desktop/MyQuoteBook/happiness.txt",
+		"/C/Users/yamc/OneDrive - ION/Reference/DB/SQL/ClientQuoteConvention.sql",
+		"/C/Users/yamc/OneDrive - ION/Reference/DB/SQL/CurrencyQuoteConventions.sql",
+		"/C/Users/yamc/Desktop/Trade275.xml",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/SOAP/PaymentsImport.txt",
+		"/C/Users/yamc/Desktop/account.xsd",
+		"/C/Users/yamc/Desktop/Single Trade Export_12.09.2019 13_20_45.xml",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/IE/QF8AB4UP/FXall Trading Center Export_9_12_2019 12_16_48.rml",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/IE/R3URHNUX/FXall Trading Center Export_9_12_2019 12_16_16.rml",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/HedgeRxConnect.dll (003).config",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/HedgeRxConnect/HedgeRxConnect.dll.config",
+		"/C/Users/yamc/Desktop/trace.sql",
+		"/C/Users/yamc/Desktop/account.xml",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/WebService/Request.txt",
+		"/C/Users/yamc/OneDrive - ION/HackerRank/Algorithms/code/reverse-a-doubly-linked-list.py",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/WV0P93HW/TestFixedWidthCTAImport_bothVersions.txt",
+		"/C/Users/yamc/OneDrive - ION/HackerRank/Algorithms/code/delete-duplicate-value-nodes-from-a-sorted-linked-list.py",
+		"/C/Users/yamc/OneDrive - ION/HackerRank/Algorithms/code/get-the-value-of-the-node-at-a-specific-position-from-the-tail.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/sort/merge_sorting.py",
+		"/C/Users/yamc/OneDrive - ION/HackerRank/Algorithms/code/compare-two-linked-lists.py",
+		"/C/Users/yamc/OneDrive - ION/HackerRank/Algorithms/code/merge-two-sorted-linked-lists.py",
+		"//C1dc01/netlogon/LoginGlobal.vbs",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/pdf/latex/Algorithms.tex",
+		"/C/Users/yamc/OneDrive - ION/notes/test.tex",
+		"/C/Users/yamc/OneDrive - ION/notes/Python_Reference.tex",
+		"/C/Users/yamc/OneDrive - ION/notes/operators.tex",
+		"/C/Users/yamc/OneDrive - ION/notes/mypreamble.tex",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/pdf/latex/mypreamble.tex",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/design/dijkstra_shortest_path.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/design/dijkstra_shortest_path.txt",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/graph/GraphTraversal.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/graph/GraphRepresentation.py",
+		"/C/Users/yamc/Desktop/Single Trade Export_9_9_2019 15_37_08.rml",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/graph/Adjacency List & Matrix.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/search/searching.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/selection/deterministic_selecting.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/design/divide_conquer.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/design/greedy_algo1.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/design/memoization.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/design/tabulation.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/pdf/latex/sorting.tex",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/pdf/latex/linkedlists.tex",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/selection/quick_selecting.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/stacks_queues/stacks.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/stacks_queues/queues.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/stacks_queues/MediaPlayerQueue.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/trees/AVLTree.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/trees/BST.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/stacks_queues/Stacks&Queues.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/hash/table.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/heaps/example1.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/link_lists/CircularList.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/link_lists/Nodes.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/link_lists/LinkedLists.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/link_lists/SinglyList.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/link_lists/DoublyList.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/pdf/sorting.tex",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/sort/quick_sorting.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/sort/heap_sorting.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/sort/insertion_sorting.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/sort/selection_sorting.py",
+		"/C/Users/yamc/OneDrive - ION/Python/data_structures/sort/bubble_sorting.py",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/IE/QF8AB4UP/Single Trade Export_9_9_2019 11_32_08.rml",
+		"/C/Users/yamc/Desktop/Ops Passwords - All Items.html",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/SOAP/PaymentExport CSV.txt",
+		"/C/Users/yamc/OneDrive - ION/Reference/DB/SQL/GroupConcat example.sql",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/Corrected Complete - Statement Date 03-08-19.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/DEMO_Import Payment Templates.txt",
+		"/C/HedgeRxConnect/Reports_Auto.bat.txt",
+		"/C/Users/yamc/Desktop/JobConfig_Import_CSVPayment.xml",
+		"/C/Users/yamc/Desktop/config.xml",
+		"/C/Users/yamc/Desktop/SI5.csv",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ICD/ICD.xml",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/MT101.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/SOAP/BankFileImport.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/DEMO_Import_Large File.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ITSServiceImport/ITSServiceImport.xml",
+		"/C/Users/yamc/Desktop/test.csv",
+		"/C/Users/yamc/Desktop/Overview_Standing_Instructions_9_3_2019_15_16_58.xml",
+		"/C/Users/yamc/Desktop/aXMLExport (1).txt",
+		"/C/Users/yamc/Desktop/aXMLExport.txt",
+		"/C/Users/yamc/OneDrive - ION/Reval Connect/Scripts/ICD/test.txt",
+		"/C/Users/yamc/Desktop/cme.txt",
+		"/C/Users/yamc/OneDrive - ION/Reference/STP/FXall/Sample XML/FX Forward.xml",
+		"/C/Users/yamc/Desktop/filesystem.txt",
+		"/C/Users/yamc/Desktop/Overview_Counterparties_7_26_2019_09_39_32.xml",
+		"/C/Users/yamc/Desktop/generated.xml",
+		"/C/Users/yamc/Desktop/Single Trade Export_8_27_2019 07_31_05 new.xml",
+		"/C/Users/yamc/Desktop/Single Trade Export_8_27_2019 05_55_25.xml",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/IE/0P225JTR/Overview_Entity_Accounts_8_26_2019_17_26_48.xml",
+		"/C/Users/yamc/Desktop/TEST.xml",
+		"/C/Users/yamc/Desktop/test1.csv",
+		"/C/Users/yamc/Desktop/Medtronic Entity Accounts v15 1 more incorrect.csv",
+		"/C/Users/yamc/Desktop/generated",
+		"/C/Users/yamc/AppData/Local/Microsoft/Windows/INetCache/IE/01OBVT0Q/Overview_Entity_Accounts_8_26_2019_17_25_32.xml"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 520.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"C:\\\\Users\\\\cheny\\\\bin\\\\MinGW64",
+			"internal",
+			"alt",
+			"[",
+			";",
+			"product",
+			"t1",
+			"condition",
+			"session",
+			"InternalTradeId",
+			"internal",
+			"alternate",
+			"ExportTrades",
+			"entity bank A/c No",
+			"entity bank A/c No. - trade",
+			"entity bank A/c No-trade",
+			"cpty bank A/c No-trade",
+			"cpty bank",
+			"cpty",
+			"cpty_Bank_Trade",
+			"cpty Bank Trade",
+			" ",
+			"              ",
+			"ExportTrades",
+			"2019-08-28",
+			"known",
+			"write",
+			"tradedate",
+			"@DateKnown",
+			",@",
+			",",
+			"write",
+			"known",
+			"AccountType",
+			"accountImportTimestamp",
+			"AccountImportTimestamp",
+			"fee",
+			"trailingNode",
+			"len",
+			"head2",
+			"head1",
+			"..",
+			"ICD",
+			"type",
+			"remaining_elements",
+			"graph",
+			"<body>",
+			"body",
+			",",
+			", ",
+			"/(\\w*)&gt;",
+			"/(\\w)*&gt;",
+			"/\\w*&gt;",
+			"&gt;&lt;line&gt;",
+			"&lt;/line&gt;",
+			"&gt;",
+			"\\d{1,2}\\sDebug\\s",
+			"HKBCNHC",
+			"from",
+			"select",
+			"\\d{1,2}\\sDebug\\s",
+			"shor name",
+			"error",
+			"CFX",
+			"iviewers",
+			"oleview.exe",
+			"UserRightsRoleSysId",
+			"\\n\\n\\n\\n",
+			"Lorne Hamilton\nlorne.hamilton@iongroup.com\n\nt   +1 (416) 622-2338\n\nm   +1 (416) 272-7194\n\niongroup.com",
+			"Chen Yam\nchen.yam@iongroup.com\n\niongroup.com",
+			"Euro Deb",
+			"MySQLServerShell",
+			"MySQLServerShel",
+			"MySQLServerShell",
+			"WshShell",
+			"incoming",
+			"message size",
+			"maxlength",
+			"maximum",
+			"size",
+			"quota",
+			"size",
+			"\\),",
+			"$\\n",
+			"^\\n",
+			" ",
+			".",
+			"tradeid",
+			"http",
+			"3375",
+			"126",
+			"Marine",
+			"\\",
+			"source",
+			"default_storage",
+			"Foldersysid",
+			"path",
+			"\\",
+			"drill",
+			"ExportTrades",
+			"AllInRate",
+			"convention",
+			"AllInRate.Value",
+			".SpotRate",
+			"forwardpoints",
+			"allinRate",
+			"indicativeRate",
+			"forwardpoints",
+			"Additionalinformation",
+			"forwardPoints.Value",
+			"Calculations.",
+			"importDefLeg1.AllInRate",
+			"contraamount",
+			"rate",
+			"fxallimporthttptc",
+			"additionalinformation",
+			"additional",
+			"</CSVData>",
+			"<line>",
+			"</line>",
+			"<line>",
+			"</line><line>",
+			"<StaticData>.*",
+			"<Param ProcessName=\"TradeImportCSV\"><CSVData>",
+			"</line><line>",
+			"<line>",
+			"</line><line>",
+			"INFTOR2716181"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/$1&gt;\\n\\t\\t\\t\\t",
+			"/($1)*&gt;\\n\\t\\t\\t\\t",
+			"/\\w*&gt;\\n\\t\\t\\t\\t",
+			"&gt;\\n\\t\\t\\t\\t\\t&lt;line&gt;",
+			"&gt;\\n\\t\\t\\t&lt;line&gt;",
+			"&gt;\\n\\t&lt;line&gt;",
+			"&gt;\\n&lt;line&gt;",
+			"&lt;/line&gt;\\n",
+			"&gt;\\n\\t\\t\\t\\t",
+			"&gt;\\n",
+			"&lt;\\n",
+			"",
+			"\\n\\n",
+			"\\),\\n",
+			"),",
+			")",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"<Trade Action=\"U\">",
+			"<Action>U</Action>",
+			"<TradeId>$1</TradeId>",
+			"<TradeId>($1)</TradeId>",
+			"<ImportId/>",
+			"<DealType>Pre-Trade</DealType>",
+			"\\<DealType\\>Pre-Trade<DealType>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.help":
+	{
+		"height": 424.0
+	},
+	"output.latextools":
+	{
+		"height": 622.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "Packages/User/C++.sublime-build",
+	"project": "quotebook.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"*REPL* [python]"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ListReportFavorites"
+			]
+		],
+		"width": 360.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
