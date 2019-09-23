@@ -12,3 +12,6 @@
     
 "If you can dream it, you can do it" 
     - Walt Disney
+
+"Don't Let Yesterday Take Up Too Much Of Today." 
+    - Will Rogers
